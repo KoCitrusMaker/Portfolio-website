@@ -1,3 +1,3 @@
 22 - Catch the balls
-16 - Gyroscope usage
-15 - Snowball
+16 - Snowball
+15 - Wack-a-mole
